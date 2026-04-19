@@ -1,0 +1,20 @@
+{
+  "name": "cc2-commerce-api",
+  "version": "1.0.0",
+  "description": "API REST avec Express.js et MongoDB - Système Commercial - Gestion Clients, Produits et Commandes",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": ["api", "rest", "express", "mongodb", "commerce"],
+  "author": "Ali_benderkaoui",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongoose": "^8.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
