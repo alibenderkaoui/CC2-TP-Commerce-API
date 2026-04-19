@@ -4,7 +4,7 @@
 
 **Technologies :** Node.js | Express.js | MongoDB | Mongoose  
 **Architecture :** MVC avec Express Router  
-**Auteur :** mohammed_erraoui  
+**Auteur :** Ali_Benderkaoui  
 **Année :** 2024 - 2025
 
 ---
@@ -124,8 +124,8 @@ Le serveur démarre sur **http://localhost:3000**
 ```json
 POST /api/clients
 {
-    "nomComplet": "Mohammed Erraoui",
-    "email": "mohammed@example.com",
+    "nomComplet": "Ali_Benderkaoui",
+    "email": "Aliben@example.com",
     "telephone": "0600000000",
     "ville": "Casablanca"
 }
